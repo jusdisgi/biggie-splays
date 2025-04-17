@@ -1,7 +1,7 @@
 # biggie-splays
 A bigger split keyboard with stagger and splay, for those who want too many keys.
 
-Currently there is a finished Choc v1 design. I have not tested it but I intend to order PCBs soon. I don't know if I will revisit this one for other switch types. Probably would be a cool MX board though...
+Currently I have completed designs for Choc v1 and v2. I have not tested it but I intend to order PCBs of the v2 design soon. I don't know if I will revisit this one for other switch types. Probably would be a cool MX board though...
 
 I will eventually be working up a case for this one, unlike my previous designs which have all been caseless. Stay tuned!
 
